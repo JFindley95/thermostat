@@ -1,6 +1,5 @@
 'use strict';
 
-
 class Thermostat {
   constructor() {
     this.MAX_LIMIT_PSM_ON = 25;
