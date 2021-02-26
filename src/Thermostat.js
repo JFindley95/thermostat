@@ -31,7 +31,7 @@ class Thermostat {
     if (this.isMinimumTemperature()) {
      return;
    }
-    this.temperature -= 1
+    this.temperature -= 1;
   }
 
   isPowerSavingModeOn() {
